@@ -16,6 +16,7 @@ namespace Sample
 
             Console.WriteLine("From Master");
              Console.WriteLine("Changed in Git");
+            Console.writeLine("New branch");
             Console.Read();
         }
     }
