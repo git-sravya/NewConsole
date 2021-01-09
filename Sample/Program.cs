@@ -11,7 +11,7 @@ namespace Sample
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("Some more code");
+        
             Console.WriteLine("Some code");
             Console.Read();
         }
