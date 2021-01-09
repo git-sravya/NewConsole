@@ -13,6 +13,8 @@ namespace Sample
             Console.WriteLine("Hello World");
         
             Console.WriteLine("Some code");
+
+            Console.WriteLine("From Master");
              Console.WriteLine("Changed in Git");
             Console.Read();
         }
